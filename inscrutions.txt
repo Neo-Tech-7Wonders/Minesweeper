@@ -1,0 +1,15 @@
+How to play:
+Click on a square to reveal it. 
+If it's a mine, you lose!
+
+
+If the square has a number, it tells you how many mines are touching that spot.
+
+
+Use these numbers to determine where mines might be hidden.
+
+
+Right-click to flag suspected mine locations.
+
+
+Continue until all non-mine squares are revealed to win the game!
